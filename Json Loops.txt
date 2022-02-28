@@ -1,0 +1,48 @@
+The For Loop :-
+
+The For Loop comes first because of its simplicity and ease of use. It is a very user-friendly kind of loop that runs with a method 
+of using a counter. 
+
+The value is first set with an appropriate condition, which is also called ‘initializing a loop’. Next, the terminal or final 
+value is specified. The For Loop makes things really easy when you need to run a set of codes multiple times.
+
+The For Loop is further divided into :-
+1. Using an array
+2. Making a loop through DOM elements
+
+
+The For In Loop :-
+
+Another way of looping is the For In Loop. Unlike the For Loop, this loop won’t be using a counter. So this makes the whole process 
+even more simple and hassle-free. In fact, the For In Loop is essentially a simplified version of the For Loop.
+
+The following are different ways of looping using the For In technique :-
+1. Looping through an Object Property.
+
+The ForEach Loop :-
+
+JSON forEach tutorial shows how to loop over a JSON array in JavaScript. In this tutorial we use JSON server to handle test data.
+The json-server is a JavaScript library to create testing REST API.
+First, we create a project directory an install the json-server module.
+
+1. mkdir jsonforeach
+2. cd jsonforeach
+3. npm init -y
+4. npm i -g json-server
+
+
+The ForIn Loop :-
+
+The for...of statement creates a loop iterating over iterable objects, including: built-in String, Array, array-like objects
+(e.g., arguments or NodeList), TypedArray, Map, Set, and user-defined iterables. It invokes a custom iteration hook with statements
+to be executed for the value of each distinct property of the object.
+
+1. Variable:
+On each iteration a value of a different property is assigned to variable. variable may be declared with const, let, or var.
+
+2. Iterable:
+Object whose iterable properties are iterated.
+Syntax-
+for (variable of iterable) {
+  statement
+}

@@ -1,0 +1,50 @@
+{
+  "basics": {
+    "name": "G.vigneshwaran",
+    "email": "vignesh@gmail.com",
+    "phone": "7582910183",
+    "degree": "BCA",
+    "summary": "I am a fresher",
+    "location": {
+      "address": "Bhavani",
+      "city": "Namakkal",
+      "country": "India"
+    },
+    "profiles": [
+      {
+        "network": "Instagram",
+        "username": "_vignesh_"
+      }
+    ]
+  },
+  "education": [
+    {
+      "institution": "PSG college of Arts and Science",
+      "area": "Computer Application",
+      "studyType": "Fulltime",
+      "startDate": "24-06-2018",
+      "endDate": "24-06-2021",
+      "gpa": "7.8"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages",
+      "level": "Intermediate",
+      "keywords": ["('Java','HTML','SQL','CSS','JavaScript')"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Professional"
+    },
+    { "language": "Tamil", "fluency": "professional" }
+  ],
+  "interests": [
+    {
+      "name": "Indoor games",
+      "keywords": ["('carrom', 'chess', 'Tennis')"]
+    }
+  ]
+}
